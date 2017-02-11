@@ -1,29 +1,29 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
-header-img: img/post-bg-rwd.jpg
-email: qiubaiying@gmail.com
-description: "每个胜利背后都有许多尝试"
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "https://qiubaiying.github.io"          # your host, for absolute URL
+title: Simple Person Blog
+SEOTitle: 赵黎明的博客 | ZLM Blog
+header-img: img/home-bg-o.jpg
+email: 15757857361@163.com
+description: "翩翩舞广袖，似鸟海东来"
+keyword: "ZLM, Zlm Blog, 赵黎明的博客, zhaoliming, 赵黎明, iOS, Apple, iPhone"
+url: "https://simplezlm.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "It takes a great man <br> to be a good instener"
-sidebar-avatar: img/avatar-by.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "不要怪行情，不要怪饱和，只能怪自己没有爬到塔尖，被水淹了，只能说爬的还不够高！"
+sidebar-avatar: img/avatar_m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-#jianshu_username:   qiubaiying
-#twitter_username:   qiubaiying
+#weibo_username:     
+#zhihu_username:   
+github_username:    simpleZlm
+#facebook_username:  
+jianshu_username:   APP叫我取个帅气的昵称
+#twitter_username:   
 
 
 
@@ -58,7 +58,7 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: qiubaiying
+#duoshuo_username: 
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
@@ -67,11 +67,11 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+#ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: auto
+#ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+#ga_domain: auto
 
 
 
@@ -92,8 +92,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "简书·APP叫我取个帅气的昵称",
+        href: "http://www.jianshu.com/u/37fe1e005f6c"
     },{
         title: "Apple",
         href: "https://apple.com"
